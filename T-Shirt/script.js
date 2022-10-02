@@ -5,4 +5,4 @@ return console.log(`The Shirt size will be ${size} and The message will be ${mea
 }
 make_shirt()
 make_shirt(size='medium')
-make_shirt('small', 'Programmers are loopy.')
+make_shirt('small', 'Programmers are moody.')
